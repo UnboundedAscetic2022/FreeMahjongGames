@@ -1,13 +1,6 @@
 # 🀄 Jugar Mahjong Online Gratis - Juego de Mahjong Solitaire Gratis
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![中文](https://img.shields.io/badge/语言-中文-blue)](README.zh.md)
-[![Français](https://img.shields.io/badge/Langue-Français-blue)](README.fr.md)
-[![Magyar](https://img.shields.io/badge/Nyelv-Magyar-blue)](README.hu.md)
-[![Polski](https://img.shields.io/badge/Język-Polski-blue)](README.pl.md)
-[![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-blue)](README.de.md)
-[![Español](https://img.shields.io/badge/Idioma-Español-blue)](README.es.md)
-[![日本語](https://img.shields.io/badge/言語-日本語-blue)](README.jp.md)
+**[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh-CN.md) | [🇫🇷 Français](README.fr.md) | [🇩🇪 Deutsch](README.de.md) | [🇪🇸 Español](README.es.md) | [🇭🇺 Magyar](README.hu.md) | [🇵🇱 Polski](README.pl.md) | [🇯🇵 日本語](README.jp.md)**
 
 ¡Bienvenido a **Jugar Mahjong Online Gratis** - el juego gratuito definitivo de Mahjong Solitaire! Disfruta del clásico Mahjong Solitaire gratis en tu navegador sin descargas ni registro.
 

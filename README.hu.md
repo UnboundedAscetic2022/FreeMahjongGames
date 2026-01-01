@@ -6,7 +6,7 @@
 
 ---
 
-**[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh-CN.md) | [🇫🇷 Français](README.fr.md) | [🇭🇺 Magyar](README.hu.md) | [🇵🇱 Polski](README.pl.md)**
+**[🇬🇧 English](README.md) | [🇨🇳 中文](README.zh-CN.md) | [🇫🇷 Français](README.fr.md) | [🇩🇪 Deutsch](README.de.md) | [🇪🇸 Español](README.es.md) | [🇭🇺 Magyar](README.hu.md) | [🇵🇱 Polski](README.pl.md) | [🇯🇵 日本語](README.jp.md)**
 
 ---
 
